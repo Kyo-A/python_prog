@@ -69,3 +69,5 @@ from math import factorial
 print ("Factorial is", factorial(6))
 
 print ("Factorial is", factorial(7))
+
+print ("Factorial is", factorial(8))
